@@ -35,6 +35,13 @@ footer{
   transform: translate(-50%, -50%);
 }
 
+.logo {
+  margin: 0;
+  padding-top: 25%;
+  position: absolute;
+  left: 45%;
+}
+
 .wait {
   animation-delay: 0.5s;
 }
