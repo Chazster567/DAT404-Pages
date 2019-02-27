@@ -17,14 +17,6 @@ footer{
   color: #fff;
 }
 
-.modal-content{
-  background-color: red;
-}
-
-.btn-primary{
-  background-color: #bada55;
-}
-
 .titlemain {
   margin: 0;
   position: absolute;
@@ -52,4 +44,34 @@ footer{
 
 .place {
   margin-top: 50%;
+}
+
+.btn-primary{
+  background-color: #bada55;
+}
+
+.btn-primary:hover{
+  background-color: black;
+}
+
+.red{
+  color: #AD1E00
+}
+
+.purple{
+  color: #5B3271
+}
+
+.blue-light{
+  color: #01C6FB
+}
+
+.blue-dark{
+  color: #232563
+}
+
+@media screen and (max-width: 576px) {
+  h1.resize {
+    font-size: 42pt;
+  }
 }
