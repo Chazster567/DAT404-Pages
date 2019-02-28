@@ -27,6 +27,10 @@ footer{
   transform: translate(-50%, -50%);
 }
 
+.topspace {
+  margin-top: 100vh;
+}
+
 .logo {
   margin: 0;
   padding-top: 25%;
@@ -40,10 +44,6 @@ footer{
 
 .wait2 {
   animation-delay: 1s;
-}
-
-.place {
-  margin-top: 50%;
 }
 
 .btn-primary{
