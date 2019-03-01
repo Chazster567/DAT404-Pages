@@ -12,6 +12,11 @@ h1, h2, h3, h4, h5, h6{
   background-color: #ccc;
 }
 
+.filled{
+  background-color: #ffe4c7;
+  background-image: url(https://www.transparenttextures.com/patterns/diamond-upholstery.png); 
+}
+
 footer{
   background-color: #111;
   color: #fff;
